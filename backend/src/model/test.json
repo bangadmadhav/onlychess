@@ -1,0 +1,48 @@
+{
+    "_id": {
+      "$oid": "67c21357c5172e054cef6874"
+    },
+    "black": "Player2",
+    "event": "CasualGame",
+    "gameDetails": "Test 1 Details here",
+    "gameTitle": "Test game 1",
+    "moves": [
+      {
+        "movePlayed": "e4",
+        "evaluation": "+0.20",
+        "bestMove": "e4",
+        "keyMove": "NONE",
+        "comment": "Solid opening move, controlling the center."
+      },
+      {
+        "movePlayed": "e5",
+        "evaluation": "+0.10",
+        "bestMove": "e5",
+        "keyMove":"NONE",
+        "comment": "Symmetrical response, standard opening theory."
+      },
+      {
+        "movePlayed": "Nf3",
+        "evaluation": "+0.30",
+        "bestMove": "Nf3",
+        "keyMove":"NONE",
+        "comment": "Develops a knight and attacks the e5 pawn."
+      },
+      {
+        "movePlayed": "Nc6",
+        "evaluation": "+0.15",
+        "bestMove": "Nc6",
+        "keyMove":"NONE",
+        "comment": "Defends the e5 pawn, common in Open Games."
+      },
+      {
+        "movePlayed": "Bb5",
+        "evaluation": "+0.50",
+        "bestMove": "Bb5",
+        "keyMove":"NONE",
+        "comment": "Ruy-Lopez opening, pinning the knight."
+      }
+    ],
+    "result": "1-0",
+    "white": "Player1"
+  }
